@@ -2,6 +2,9 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+HTML5
+MacNoEditor
+Build/Receipts
 *.opensdf
 *.sdf
 *.sln
